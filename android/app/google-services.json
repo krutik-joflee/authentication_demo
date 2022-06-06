@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764838237939",
+    "project_id": "auth-krutik-demo",
+    "storage_bucket": "auth-krutik-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764838237939:android:8efa5bc19d2e1098cc0986",
+        "android_client_info": {
+          "package_name": "com.example.authentication_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764838237939-82hmo5sfqk7f0qeapo0p5qsimp5hqhia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuFK7kQ6QYLCTUNrECuZdt1N6AACoT-N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764838237939-82hmo5sfqk7f0qeapo0p5qsimp5hqhia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
